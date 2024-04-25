@@ -740,6 +740,7 @@ outline: transparent;
 
 .modal-input-wrap{
     position: relative;
+    margin-bottom: 24px;
 }
 
 .modal-label{
