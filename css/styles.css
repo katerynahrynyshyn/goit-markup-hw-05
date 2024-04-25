@@ -762,6 +762,10 @@ color: #8e8f99;
 }
 
 .modal-field{
+    margin-bottom: 8px;
+}
+
+.modal-field-chekbox{
     margin-bottom: 24px;
 }
 
